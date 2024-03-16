@@ -1,4 +1,4 @@
-# Set-Up-a-CI-CD-Pipeline-on-AWS
+# set-up-a-ci-cd-pipeline-on-aws
 
 ## Overview
 
