@@ -4,7 +4,8 @@
 
 Welcome to the **Set Up a CI/CD Pipeline on AWS** project! This README will guide you through the setup process step by step.
 
-![image](https://github.com/Tech-Nat/set-up-a-ci-cd-pipeline-on-aws/assets/97749491/eb160076-e4c8-47f8-9686-3a31c1fce139)
+![image](https://github.com/Tech-Nat/set-up-a-ci-cd-pipeline-on-aws/assets/97749491/3ef10795-30d2-4525-8fcd-2560955acc22)
+
 
 ### Why CI/CD Matters
 
